@@ -6,7 +6,6 @@ Implementing a class that provides users to: </br>
     &ensp;2. Initialize random centroids </br> 
     &ensp;3. Clusters data points</br> 
     &ensp;4. Write data points with their cluster number into a text file </br> 
-The program was implemented in C++ using REPLIT, an online IDE. </br> 
 
 ### FILES:
 List of Files: </br> 
