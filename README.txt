@@ -1,4 +1,5 @@
-GOAL: gain deeper understanding about clustering by implementing a simple k-means algorithm.
+New Change
+Goal: gain deeper understanding about clustering by implementing a simple k-means algorithm.
 DESCRIPTION: Implemented a class that provides users to: 
 		1. Read in text file contains all the data points 
             	2. Initialize random centroids 
