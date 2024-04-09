@@ -1,7 +1,7 @@
 ### GOAL:
 Gaining deeper understanding about clustering by implementing a simple k-means algorithm.</br> 
 ### DESCRIPTION:
-Implementing a class that provides users to: </br> 
+Implementing a class that provides users with the below features: </br> 
 		&ensp;1. Read in text file contains all the data points </br> 
     &ensp;2. Initialize random centroids </br> 
     &ensp;3. Clusters data points</br> 
